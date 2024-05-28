@@ -261,5 +261,7 @@
     },
     "editor.codeActionsOnSave": {
 
-    }
+    },
+    "java.project.sourcePaths": [],
+    "java.project.referencedLibraries": []
 }
