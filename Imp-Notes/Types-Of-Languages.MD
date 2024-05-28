@@ -3,7 +3,7 @@
 #### Types of Programming Languages
 - Procedural Languages:
   - Series of Well structured steps and procedures to compose a program
-  - Contains a systemativ order of statements functions and commands to complete the task
+  - Contains a system at iv order of statements functions and commands to complete the task
 
 - Functional Language:
   - Writing a program only in pure functions never modify the variables but only create new ones as an output
