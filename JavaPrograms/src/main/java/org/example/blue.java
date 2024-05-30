@@ -9,7 +9,8 @@ public class Blue {
   public static void main(String[] args) throws IOException {
 
     Scanner sc = new Scanner(System.in);
-    System.err.print("Please Enter your name : ");
+    System.out.print("Please Enter your name : " );
+
     String name = sc.nextLine();
     System.out.print("Please enter a Number");
     int number = sc.nextInt();

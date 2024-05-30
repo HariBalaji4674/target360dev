@@ -1,6 +1,6 @@
 ### Java Programming Introduction ```28-May-2024```
 
-#### Types of Programming Languages
+### Types of Programming Languages
 - Procedural Languages:
   - Series of Well structured steps and procedures to compose a program
   - Contains a system at iv order of statements functions and commands to complete the task
@@ -18,10 +18,18 @@ Types of Languages:
 - Static Languages
 - Dynamic Language
 
-#### Memory Management:
+### Memory Management:
 Types of Memories:
 - Stack Memory
 - Heap Memory
+
+### How Java works & Executes
+- extension file for java is .java(Human Readable)
+- compiler compiles the entire human readable file into .class file (byte code)
+- This code will not directly  run on system
+- We need JVM to run this .class file
+- 
+-
 
 
 
