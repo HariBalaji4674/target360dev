@@ -5,5 +5,8 @@
     "editor.accessibilityPageSize": 16,
     "editor.formatOnSave": true,
     "editor.quickSuggestionsDelay": 2,
-    "javascript.format.semicolons": "insert"
+    "javascript.format.semicolons": "insert",
+    "outline.problems.enabled": false,
+    "problems.visibility": false,
+    "outline.problems.colors": true
 }
