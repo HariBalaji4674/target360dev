@@ -107,7 +107,7 @@
     },
     "go.gopath": "",
     "explorer.confirmPasteNative": false,
-    "editor.tabSize": 2,
+    "editor.tabSize": 10,
     "[yaml]": {
         "editor.wordWrap": "on"
     },
@@ -118,7 +118,32 @@
     "editor.minimap.enabled": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "git.openRepositoryInParentFolders": "never",
-    "workbench.colorCustomizations": {},
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#fa24d4",
+      "activityBar.background": "#fa24d4",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "commandCenter.border": "#e7e7e799",
+      "editorGroup.border": "#fa24d4",
+      "panel.border": "#fa24d4",
+      "sash.hoverBorder": "#fa24d4",
+      "sideBar.border": "#fa24d4",
+      "statusBar.background": "#fa24d4",
+      "statusBar.border": "#fa24d4",
+      "statusBar.debuggingBackground": "#24fa4a",
+      "statusBar.debuggingBorder": "#24fa4a",
+      "statusBar.debuggingForeground": "#15202b",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#fb56de",
+      "statusBarItem.remoteBackground": "#fa24d4",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "tab.activeBorder": "#fa24d4",
+      "titleBar.activeBackground": "#b40495",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.border": "#b40495",
+      "titleBar.inactiveBackground": "#b4049599",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
     "cSpell.ignoreWords": [
         "avilability",
         "membersin"
@@ -246,7 +271,7 @@
     "notebook.editorOptionsCustomizations": {
 
     },
-    "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.empty.hint": "",
     "git.enableSmartCommit": true,
     "git.autofetch": true,
     "workbench.colorTheme": "Default Light+",
@@ -263,5 +288,5 @@
 
     },
     "java.project.sourcePaths": [],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
 }

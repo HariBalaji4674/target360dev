@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 18,
+    "editor.accessibilityPageSize": 16,
+    "editor.formatOnSave": true,
+    "editor.quickSuggestionsDelay": 2,
+    "javascript.format.semicolons": "insert"
+}

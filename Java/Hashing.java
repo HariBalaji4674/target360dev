@@ -7,8 +7,9 @@ public class Hashing {
       for(int j =0;j<=i;j++) {
         System.out.print(" * ");
       }
-      System.out.println();
     }
+    System.out.println();
+
     int k = 0;
     while(k<=10){
       System.out.println(" *  ");

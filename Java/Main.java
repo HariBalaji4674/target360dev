@@ -16,11 +16,6 @@ public class Main {
     System.out.println(num+" "+fir);
     System.out.println(namedDay(20));
     // namedDay(20);
-    
-
-
-
-
   }
 
   public static int namedDay(int number){

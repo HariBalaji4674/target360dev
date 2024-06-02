@@ -23,7 +23,61 @@
 }
 .image-thumb {
   width: 450px;
+  /* height: 600px; */
+  border-radius: 20px;
+  box-shadow: 10px;
+  margin: 10px;
+  object-position: center;
+  border-color: red;
+  border-style: ridge;
+  border-width: 7px;
+
+
+
+}
+.search-bar {
+  margin: 12px 0;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: blue;
+}
+.paragraph {
+  display: inline-block;
+  padding: 10px;
+}
+.idea{
+  font-size: 20px;
 
 }
 /* Link is Void Element */
-/*   */
+/*
+
+element
+block element
+inline element
+inline-block element
+table element
+td element
+th element
+tr element
+form element
+fieldset element
+legend element
+
+Nested layouts
+Vertical Layout
+horizontal Layout
+flexbox Layout
+grid Layout
+
+got to google
+
+select roboto
+
+will get lots of roboto fonts
+select bold and normal roboto fonts
+
+
+
+
+*/
