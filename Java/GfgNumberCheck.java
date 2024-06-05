@@ -21,9 +21,6 @@ public class GfgNumberCheck {
         System.out.println("This is an Array to be called Into that "+arr);
         number(arr,numberCheck);
 
-
-
-            
         }
 }
 
